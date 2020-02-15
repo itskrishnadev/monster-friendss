@@ -30,7 +30,7 @@ class App extends Component{
 
     return(
       <div className="App">
-        <h1 className="code">Monsters Roledox</h1>
+        <h1 className="code">Monsters Friends</h1>
 
         <SearchBox 
         

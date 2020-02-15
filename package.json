@@ -1,8 +1,8 @@
 {
-  "name": "monster-roledox",
+  "name": "monster-friends",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/Krishnadev1999/monster-roledox",
+  "homepage": "https://github.com/Krishnadev1999/monster-friends",
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.3.2",
